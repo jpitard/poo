@@ -1,0 +1,16 @@
+{
+    "name": "root/poo",
+    "authors": [
+        {
+            "name": "john",
+            "email": "john@gmail.com"
+        }
+    ],
+    "require": {},
+    
+    "autoload" : {
+    	"psr-4" : {
+    		"" : "src/"
+    	}
+    }
+}
